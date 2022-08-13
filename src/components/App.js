@@ -1,9 +1,13 @@
 import React from "react";
-
-React
+import "../css/bootstrap-5.2.0-beta1-dist/css/bootstrap.css"
+import "../css/style.css"
 
 function App() {
-    return (
+    return ( <
+        div >
+
+        <
+        /div>
 
     );
 }
