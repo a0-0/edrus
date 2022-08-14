@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@600&family=Manrope:wght@600&display=swap');
+.navbar {
+    padding-top: 1rem;
+    background-color: #6555DF !important;
+}
+
+.navbar-brand {
+    font-size: 3rem !important;
+    color: #ffffff !important;
+    font-family: 'Gluten';
+}
+
+.nav-item {
+    margin-left: 1.8rem;
+    margin-right: 1.8rem;
+}
+
+.nav-link {
+    color: #ffffff !important;
+    font-family: 'Manrope'!important;
+    font-style: normal!important;
+    font-weight: 700!important;
+    font-size: 1.5rem!important;
+    line-height: 1.8rem!important;
+}
+
+.btn-edit {
+    color: #ffffff !important;
+    background-color: #ECBA53 !important;
+    font-family: 'Manrope'!important;
+    font-style: normal!important;
+    font-weight: 700!important;
+    font-size: 1.3rem!important;
+    line-height: 22px!important;
+    border-radius: 15px !important;
+    padding: 9px 15px !important;
+    border: none !important;
+    box-shadow: 0px 1px 10px #cffd00 !important;
+}
+
+.btn-edit:hover {
+    border: none !important;
+    box-shadow: 0px 8px 30px #cffd00 !important;
+}
