@@ -9,7 +9,7 @@ function Footer() {
 
     return ( <
         footer className = "mt-auto" >
-        copy right { currentdate + " " }
+        copy right { " ©️ " + currentdate + " " }
         Ahmed Abdrabou <
         /footer >
     )

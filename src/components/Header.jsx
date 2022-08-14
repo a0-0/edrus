@@ -3,6 +3,9 @@ import "../css/bootstrap-5.2.0-beta1-dist/css/bootstrap.css"
 import "../css/style.css"
 import "./Header.css"
 
+
+
+
 function Header() {
     return ( <
         nav className = "navbar navbar-expand-lg " >
@@ -10,7 +13,10 @@ function Header() {
         div className = "container" >
         <
         a className = "navbar-brand"
-        href = "./Home" > Al Saad < /a> <
+        href = "./Home" > Edrus < /a> 
+
+
+        <
         div className = "collapse navbar-collapse"
         id = "navbarNav" >
         <
@@ -19,23 +25,23 @@ function Header() {
         li className = "nav-item" >
         <
         a className = "nav-link "
-        href = "{Home}" > Home < /a> <
-        /li> <
+        href = "{Home}" > Home < /a> < /
+        li > <
         li className = "nav-item" >
         <
         a className = "nav-link"
-        href = "#" > Members < /a> <
-        /li> <
+        href = "#" > Members < /a> < /
+        li > <
         li className = "nav-item" >
         <
         a className = "nav-link"
-        href = "#" > Service < /a> <
-        /li> <
+        href = "#" > Service < /a> < /
+        li > <
         li className = "nav-item" >
         <
         a className = "nav-link "
-        href = "#" > Universities < /a> <
-        /li> <
+        href = "#" > Universities < /a> < /
+        li > <
         li className = "nav-item" >
         <
         a className = "btn btn-edit"
@@ -46,12 +52,12 @@ function Header() {
         li className = "nav-item" >
         <
         a className = "nav-link arabic "
-        href = "/arindex.html" > العربيه < /a> <
-        /li> <
-        /ul> <
-        /div> <
-        /div> <
-        /nav>
+        href = "/arindex.html" > العربيه < /a> < /
+        li > <
+        /ul> < /
+        div > <
+        /div> < /
+        nav >
     )
 }
 export default Header

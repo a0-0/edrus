@@ -1,0 +1,50 @@
+.nd-section {
+    text-align: center;
+}
+
+.bg-colo {
+    background-color: #6555DF !important;
+    color: #ffffff !important;
+    background-image: url(../img/background.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+
+h1 {
+    font-family: 'Gluten' !important;
+    font-size: 5.5rem !important;
+    margin: 3.5rem 0 !important;
+}
+
+h3 {
+    font-family: 'Inter' !important;
+    font-size: 3rem !important;
+    margin: 2.5rem 0 !important;
+}
+
+.btn-edit1 {
+    color: #ffffff !important;
+    font-family: 'Manrope'!important;
+    line-height: 22px!important;
+    border-radius: 1rem !important;
+    border: none !important;
+    padding: 1rem 2rem !important;
+    margin: 3.1rem 0;
+    font-size: 1.5rem !important;
+    box-shadow: 0px 1px 10px #313bbd !important;
+}
+
+.btn-edit1:hover {
+    border: none !important;
+    box-shadow: 0px 8px 30px #b7b2fa !important;
+}
+
+.m-d {
+    background-color: rgb(33, 20, 156) !important;
+}
+
+.m-d1 {
+    background-color: #ECBA53 !important;
+    box-shadow: 0px 1px 10px #cffd00 !important;
+}
